@@ -2,6 +2,19 @@
 
 This project implements a highly optimized, low-latency wireless video transmission (VTX) system. It uses an **ESP32-CAM** to capture JPEG frames and stream them over **UDP** (User Datagram Protocol) to a host PC running a **Python/OpenCV** script for real-time decoding and display.
 
+## **🎥 VTX OUTPUT**
+
+### **100 FPS on 400x296**
+https://github.com/user-attachments/assets/bb5fd82e-d823-4ce3-92f3-3338d09a925c
+### **70 FPS on 320x240**
+https://github.com/user-attachments/assets/f212189a-cc11-4fbc-973c-587f489a4831
+### **45 FPS on 640x480**
+https://github.com/user-attachments/assets/f614a9de-a232-4b48-8fd3-213d67d799df
+### **40 FPS on 800x600**
+https://github.com/user-attachments/assets/d8f4c130-ad72-48be-bc0f-98640e194a20
+### **12 FPS on 1024x768**
+https://github.com/user-attachments/assets/792accd1-42c1-4362-945f-0e0192f51319
+
 ## **🚀 Architecture and Protocol**
 
 Since UDP is packet-based and cannot natively handle large JPEG images, the project uses a custom application layer protocol:
