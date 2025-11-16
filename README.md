@@ -14,6 +14,10 @@ https://github.com/user-attachments/assets/f614a9de-a232-4b48-8fd3-213d67d799df
 https://github.com/user-attachments/assets/d8f4c130-ad72-48be-bc0f-98640e194a20
 ### **12 FPS on 1024x768**
 https://github.com/user-attachments/assets/792accd1-42c1-4362-945f-0e0192f51319
+## **Tutorial and Installation**
+
+![unnamed](https://github.com/user-attachments/assets/03a5ecef-0c63-4e1d-8167-f18de1f921e3)
+https://youtu.be/XgG2CkQOob0
 
 ## **🚀 Architecture and Protocol**
 
